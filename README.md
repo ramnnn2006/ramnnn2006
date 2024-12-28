@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://avatars.githubusercontent.com/u/182676519?v=4" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/182676519?v=4" alt="Logo" width="99" height="99">
   </a>
   
   <h3 align="center"> ramandotpy </h3>
@@ -31,6 +31,7 @@
 
 
 ## Socials 📱
+[![My Skills](https://skillicons.dev/icons?i=instagram,discord,gmail,linkedin)](https://skillicons.dev)
 <details>
 <summary><strong>Contacts 📜</strong></summary>
   [![My Skills](https://skillicons.dev/icons?i=instagram,discord,gmail,linkedin)](https://skillicons.dev)
@@ -42,6 +43,12 @@
 
 ## Stats 📊
 
-[![catto's GitHub stats](https://github-readme-stats.vercel.app/api?username=cattodotpy)](https://github.com/cattodotpy/github-readme-stats)
+[![raamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramnnn2006)](https://github.com/cattodotpy/github-readme-stats)
+
+
+
+##stats for nerds
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
