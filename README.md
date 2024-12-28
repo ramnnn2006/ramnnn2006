@@ -21,6 +21,10 @@
 #### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=py,c)](https://skillicons.dev)
 
+
+#### databases ?
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
 #### Learning
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
@@ -45,6 +49,17 @@
 [![raamm's hitgub stats](https://github-readme-stats.vercel.app/api?username=ramnnn2006)](https://github.com/ramnnn2006/github-readme-stats)
 
 
+##   CONTACT ME ?
+
+<a href="https://www.linkedin.com/in/ramnnn/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
+</a>
+<a href="https://instagram.com/ramnnn/" target="_blank">
+   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=WHITE">
+</a>
+<a href="mailto:phrkvvp@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 ## Stats for nerds  
 
