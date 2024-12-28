@@ -34,7 +34,6 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram,discord,gmail,linkedin)](https://skillicons.dev)
 <details>
 <summary><strong>Contacts 📜</strong></summary>
-  [![My Skills](https://skillicons.dev/icons?i=instagram,discord,gmail,linkedin)](https://skillicons.dev)
 <br>
 <a href="https://discord.com/users/871241459586711572">
 <img src="https://lanyard.cnrad.dev/api/871241459586711572">
