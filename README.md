@@ -43,7 +43,7 @@
 
 ## Stats 📊
 
-[![raamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramnnn2006)](https://github.com/ramnnn2006/github-readme-stats)
+[![raamm's hitgub stats](https://github-readme-stats.vercel.app/api?username=ramnnn2006)](https://github.com/ramnnn2006/github-readme-stats)
 
 
 
