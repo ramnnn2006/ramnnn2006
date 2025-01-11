@@ -54,7 +54,7 @@
 <a href="https://www.linkedin.com/in/ramnnn/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
 </a>
-<a href="https://instagram.com/ramnnn/" target="_blank">
+<a href="https://instagram.com/_ramnnn.py/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=WHITE">
 </a>
 <a href="mailto:phrkvvp@gmail.com" target="_blank">
