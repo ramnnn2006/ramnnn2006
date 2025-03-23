@@ -58,10 +58,10 @@
    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=WHITE">
 </a>
 <a href="mailto:phrkvvp@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=BLACK">
 </a>
 
-## Stats for nerds  
+## more stats 🎀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramnnn2006&layout=compact)
 
