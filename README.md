@@ -6,7 +6,7 @@
   
   <h3 align="center"> ramandotpy </h3>
   <p aligh="center">
-    I'm a  University student who is interested in programming, computer science and machine learning 🤖.
+    A University student who is interested in programming, computer science and machine learning 🤖.
   <br/>
   <a href=""><strong>My GitHub Profile Link</strong></a>
 </div>  
@@ -19,23 +19,21 @@
 ## Skill Sets ⚡️
 
 #### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp)](https://skillicons.dev)
 
+#### Learning
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 #### databases ?
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-#### Learning
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp)](https://skillicons.dev)
-
-
-#### Utilities
+#### Utilities ⛏️
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,gcp,arduino)](https://skillicons.dev)
 
 
 ## Socials 📱
-[![My Skills](https://skillicons.dev/icons?i=instagram,discord,gmail,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram,discord,gmail,linkedin)]
 <details>
 <summary><strong>Contacts 📜</strong></summary>
 <br>
@@ -55,10 +53,10 @@
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
 </a>
 <a href="https://instagram.com/_ramnnn.py/" target="_blank">
-   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=WHITE">
+   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=WHITE&color=black">
 </a>
 <a href="mailto:phrkvvp@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=BLACK">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black">
 </a>
 
 ## more stats 🎀
