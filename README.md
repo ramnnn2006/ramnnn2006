@@ -33,7 +33,7 @@
 
 
 ## Socials 📱
-[![My Skills](https://skillicons.dev/icons?i=instagram,discord,gmail,linkedin)]
+[![My Skills](https://skillicons.dev/icons?i=instagram,discord,gmail,linkedin)](https://skillicons.dev)
 <details>
 <summary><strong>Contacts 📜</strong></summary>
 <br>
