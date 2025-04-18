@@ -15,6 +15,7 @@
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20Security-222222?style=for-the-badge&logo=Parrot+Security&logoColor=15E0ED)
 
 ## Skill Sets ⚡️
 
@@ -29,7 +30,7 @@
 
 #### Utilities ⛏️
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,gcp,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,gcp,arduino,linux,debian)](https://skillicons.dev)
 
 
 ## Socials 📱
@@ -52,7 +53,7 @@
 <a href="https://www.linkedin.com/in/ramnnn/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
 </a>
-<a href="https://instagram.com/_ramnnn.py/" target="_blank">
+<a href="https://instagram.com/raamm__007/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=WHITE&color=black">
 </a>
 <a href="mailto:phrkvvp@gmail.com" target="_blank">
