@@ -58,3 +58,5 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> <br>
 i'm always open to discussing new projects, collaborating, or just chatting about tech!
+
+![](https://komarev.com/ghpvc/?username=ramnnn2006&label=profile%20views&color=39B1D1&style=flat)
